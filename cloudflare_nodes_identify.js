@@ -1,7 +1,7 @@
 /*
 name              Cloudflare_nodes_location_identify
 website         https://github.com/Rayzggz/Cloudflare_nodes_location_identify
-version           1.3
+version           1.2
 description       利用JavaScript检测并且输出Cloudflare节点位置
 author            Rayzggz
 e-mail            rayzggz@ranfu.net
