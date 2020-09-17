@@ -12,7 +12,7 @@ The script can identify the language of user. If the user uses Chinese(zh), it w
 
 jsDelivr
 ```
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Rayzggz/Cloudflare_nodes_location_identify@1.2/cloudflare_nodes_identify.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Rayzggz/Cloudflare_nodes_location_identify@1.3/cloudflare_nodes_identify.js"></script>
 ```
 
 [![](https://data.jsdelivr.com/v1/package/gh/Rayzggz/Cloudflare_nodes_location_identify/badge)](https://www.jsdelivr.com/package/gh/Rayzggz/Cloudflare_nodes_location_identify)
